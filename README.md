@@ -21,3 +21,5 @@ Basic Problem Solving
 Purpose
 
 This repository is created for learning, practice, and revision of Python fundamentals.
+
+**The course is not completed**
